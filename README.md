@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> , I'm Van Loc (Leo) Nguyen</h1>
+<h1 align="center"><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I'm Van Loc (Leo) Nguyen</h1>
 <h3 align="center">A passionate Frontend Developer from Viet Nam with nearly 3 years of experience.</h3>
 <h2 align="center">You can call me Leo  <img src="https://media.giphy.com/media/l41K2nK1kW3wCM6dy/giphy.gif" width="36px"> </h2>
 
