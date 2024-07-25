@@ -2,25 +2,21 @@
 <h3 align="center">A passionate Frontend Developer from Viet Nam with nearly 3 years of experience.</h3>
 <h2 align="center">You can call me Leo</h2>
 
-- 📄 My portfolio [https://van-loc-portfolio.vercel.app/](https://van-loc-portfolio.vercel.app/)
+- 📄 My portfolio [https://van-loc-portfolio.vercel.app](https://van-loc-portfolio.vercel.app)
 
 - 🔭 I’m currently working on **Sanbul Solutions**
 
 - 🌱 I’m currently learning **React, NextJS, Angular**
 
-<!-- - 👯 I’m looking to collaborate on **...**
 
-- 🤝 I’m looking for help with **...** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/VanLocBT98](https://github.com/VanLocBT98)
 
-<!-- - 📝 I regularly write articles on [...](...) -->
 
-<!-- - 💬 Ask me about **...** -->
 
 - 📫 How to reach me **vanlocforwork.nv@gmail.com**
 
-<!-- - 📄 Know about my experiences [...](...) -->
+
 
 - ⚡ Fun fact **...**
 
