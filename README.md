@@ -30,6 +30,7 @@
 <a href="https://www.linkedin.com/in/nguyen-van-loc-a063a1240/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-van-loc-a063a1240" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dag.phan.1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dag.phan.1" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1133984581238927401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1133984581238927401" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1133984581238927401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/zalo.svg" alt="1133984581238927401" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
