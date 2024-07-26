@@ -4,7 +4,7 @@
 
 - 📄 My portfolio [https://van-loc-portfolio.vercel.app](https://van-loc-portfolio.vercel.app)
 
-- 🔭 I’m currently working on **Sanbul Solutions**
+- 🔭 I’m currently working on **XSoft**
 
 - 🌱 I’m currently learning **React, NextJS, Angular**
 
